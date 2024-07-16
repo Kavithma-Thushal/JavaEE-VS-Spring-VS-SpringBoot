@@ -13,7 +13,6 @@ import java.util.List;
  * @project : Spring
  * @since : 4:50 PM - 7/15/2024
  **/
-@CrossOrigin
 @RestController
 @RequestMapping("/api/v1/customer")
 public class CustomerAPI {

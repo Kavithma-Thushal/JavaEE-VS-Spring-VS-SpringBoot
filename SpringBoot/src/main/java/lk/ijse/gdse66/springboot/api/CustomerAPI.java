@@ -13,7 +13,6 @@ import java.util.List;
  * @project : SpringBoot-MySQL-CRUD
  * @since : 7:05 AM - 6/18/2024
  **/
-@CrossOrigin
 @RestController
 @RequestMapping("/api/v1/customer")
 public class CustomerAPI {
